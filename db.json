@@ -1,3 +1,28 @@
 {
-  "todos": []
+  "todos": [
+    {
+      "todo": "buy milk",
+      "id": 1
+    },
+    {
+      "todo": "buy milk",
+      "id": 2
+    },
+    {
+      "todo": "buy milk",
+      "id": 3
+    },
+    {
+      "todo": "buy milk",
+      "id": 4
+    },
+    {
+      "todo": "buy milk",
+      "id": 5
+    },
+    {
+      "todo": "buy milk",
+      "id": 6
+    }
+  ]
 }
